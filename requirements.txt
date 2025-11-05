@@ -1,0 +1,7 @@
+sounddevice
+numpy
+openai
+tkinter
+gtts
+python-dotenv
+soundfile
