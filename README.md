@@ -3,7 +3,6 @@
 An intelligent **voice-based interview assistant** built with **Python**, **OpenAI GPT**, and **real-time speech recognition**.
 
 This app listens to your voice, converts it into text using OpenAI Whisper, and generates human-like answers using GPT.  
-Perfect for practicing technical interviews or building your own personal AI companion.
 
 ---
 
